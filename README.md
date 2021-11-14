@@ -1,6 +1,6 @@
 # Naive-Bayes-from-scratch
-Filtering spam mails using Naive Bayes algorithm.  
-All codes were implemented without using external libraries.  
+* Filtering spam mails using Naive Bayes algorithm.  
+* All codes were implemented without using external libraries.  
 
 ---
 
