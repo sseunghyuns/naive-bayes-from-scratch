@@ -4,13 +4,15 @@ All codes were implemented without using external libraries.
 
 ---
 
-# Run
+## Run
 
 ```
 $ python main.py
 ```
 
 ---
+
+## Result
 
 Total train spam mails: 100  
 Total train ham mails : 100  
