@@ -1,5 +1,6 @@
 # Naive-Bayes-from-scratch
 Filtering spam mails using Naive Bayes algorithm.
+All codes were implemented without using external libraries.
 
 Total train spam mails: 100  
 Total train ham mails : 100  
