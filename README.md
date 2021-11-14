@@ -2,9 +2,15 @@
 Filtering spam mails using Naive Bayes algorithm.  
 All codes were implemented without using external libraries.  
 
+---
+
+# Run
+
 ```
 $ python main.py
 ```
+
+---
 
 Total train spam mails: 100  
 Total train ham mails : 100  
